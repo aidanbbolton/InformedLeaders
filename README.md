@@ -11,6 +11,7 @@ Simulation is based on the paper in files/.
 arrows  |  rotate view
   k     |  pause simulation
   0     |  reset simulation
+  v     |  toggle verbose information
  1/!    |  increase/decrease a (minimum range radius)
  2/@    |  increase/decrease p (maximum sight radius)
  i/I    |  increase/decrease percentage of informed leaders
@@ -25,4 +26,5 @@ arrows  |  rotate view
  also attempt to move towards a target direction, weighted by a constant w. In this model the target direction is vertex (1,1,1) and informed individuals are red. 
  
  
+<img width="1202" alt="Screenshot 2023-07-20 at 8 08 44 PM" src="https://github.com/aidanbbolton/InformedLeaders/assets/56652446/7141f2fe-ea2b-49ea-8aa8-8fb69cc2f41f">
 
