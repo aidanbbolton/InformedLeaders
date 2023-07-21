@@ -6,7 +6,7 @@ The makefile is designed for use with multiple architectures but only tested on 
 Simulation is based on the paper in files/.
 
 # Keys
-  m     |  switch between modes
+```  m     |  switch between modes
   a     |  toggle axis
 arrows  |  rotate view
   k     |  pause simulation
@@ -17,6 +17,7 @@ arrows  |  rotate view
  w/W    |  increase/decrease informed leaders bias towards goal direction
  t/T    |  increase/decrease individual rotation speed
  r/R    |  increase/decrease individual velocity
+```
 
 
  This model was created as a quick demonstration of the abiltiy of a small percentage of a population to steer group movements without any form of communication. 
